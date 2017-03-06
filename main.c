@@ -1,16 +1,3 @@
-/**
- * Trzeci program zaliczeniowy na zajęcia laboratowyjne ze Wstępu do 
- * programowania, wypisujacy wszystkie rozwiazania problemu dokladnego pokrycia
- * wiersza.
- *
- * Dokladny opis problemu znajduje się na platformie Moodle:
- * https://moodle.mimuw.edu.pl/mod/assignment/view.php?id=17568
- * 
- * Autor: Arkadiusz Tomczak
- * wersja: 1.1
- * data: 12.01.2016
- */
-
 #include<stdio.h>
 #include<stdbool.h>
 #include<stdlib.h>
